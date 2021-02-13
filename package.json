@@ -1,0 +1,16 @@
+{
+  "name": "compression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node12-win64": "^9.50.86",
+    "jimp": "^0.16.1",
+    "nodemon": "^2.0.7"
+  }
+}
